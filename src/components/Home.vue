@@ -19,7 +19,13 @@
         >
       </li>
       <li><a href="https://router.vuejs.org/">Router v3.5</a></li>
-      <li>The GitHub Repo<a href="https://router.vuejs.org/"> is here</a></li>
+      <li>
+        The GitHub Repo<a
+          href="https://github.com/thenatureconservancy/esri-vue-sample"
+        >
+          is here</a
+        >
+      </li>
     </ul>
   </div>
 </template>
