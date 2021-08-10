@@ -24,13 +24,11 @@ export default {
   },
   mounted() {
     this.$store.dispatch("createMap");
-    // createMap();
   },
 };
 </script>
 
 <style>
-@import url("https://js.arcgis.com/4.4/esri/themes/light/main.css");
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
