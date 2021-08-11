@@ -11,6 +11,7 @@
 <script>
 // bring in the create map function from the esriapi
 import { createMap } from "./esriapi.js";
+
 import EsriMap from "./components/EsriMap.vue";
 import Header from "./components/Header.vue";
 import Sidebar from "./components/Sidebar.vue";
